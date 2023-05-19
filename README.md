@@ -4,3 +4,4 @@
 ![Anna GitHub stats](https://github-readme-stats.vercel.app/api?username=annabeatriz99&theme=transparent&show_icons=true)
 
 
+![snake gif](https://github.com/annbeatriz99/annabeatriz99/blob/output/github-contribution-grid-snake.svg)
